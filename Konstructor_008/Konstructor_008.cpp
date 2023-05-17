@@ -14,11 +14,15 @@ mahasiswa(int iNim, string iNama);
 void cetak();
 };
 
-mahasiswa::mahasiswa() {
+mahasiswa:: mahasiswa() {
 	nim = 0;
 	nama = "";
 }
 
-mahasiswa::mahasiswa(int iNim) {
+mahasiswa:: mahasiswa(int iNim) {
 nim = iNim;
+}
+
+mahasiswa :: mahasiswa(int iNim, string iNama) {
+
 }
