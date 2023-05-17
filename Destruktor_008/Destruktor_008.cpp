@@ -15,4 +15,5 @@ public:
 angka::angka(int i) {  // Destructor
 	cout << endl;
 	cetakData();
+	delete[]arr;
 }
