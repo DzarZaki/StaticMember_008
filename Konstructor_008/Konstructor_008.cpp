@@ -28,5 +28,5 @@ nim = iNim;
 nama = iNama;
 }
 void mahasiswa::cetak() {
-
+	cout << endl << "Nim =" << nim << endl;
 }
