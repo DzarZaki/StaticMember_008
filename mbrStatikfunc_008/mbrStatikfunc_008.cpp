@@ -33,5 +33,5 @@ void mahasiswa::printAll() {
 }
 
 int main() {
-
+	mahasiswa mhs1("Sri Dadi");
 }
