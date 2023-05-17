@@ -20,5 +20,7 @@ angka::angka(int i) {  // Destructor
 }
 
 void angka::cetakData() {
+	for (int i = 1;i <= panjang;i++) {
 
+	}
 }
