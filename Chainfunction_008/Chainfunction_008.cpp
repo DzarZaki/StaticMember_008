@@ -18,5 +18,6 @@ public:
 
 int main()
 {
-
+	// bukunya.setjudul("Matematika");
+	
 }
