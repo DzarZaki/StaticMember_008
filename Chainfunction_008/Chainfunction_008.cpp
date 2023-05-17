@@ -12,6 +12,6 @@ public:
 	}
 	string getjudul()
 	{
-
+		return this->judul;
 	}
 };
