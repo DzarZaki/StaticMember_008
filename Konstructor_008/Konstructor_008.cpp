@@ -35,4 +35,5 @@ void mahasiswa::cetak() {
 int main() {
 	mahasiswa mhs1;
 	mahasiswa mhs2(20);
+	mahasiswa mhs3("Indra");
 }
