@@ -15,5 +15,5 @@ void cetak();
 };
 
 mahasiswa::mahasiswa() {
-
+	nim = 0;
 }
