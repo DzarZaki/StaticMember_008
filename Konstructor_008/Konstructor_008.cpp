@@ -33,5 +33,5 @@ void mahasiswa::cetak() {
 }
 
 int main() {
-
+	mahasiswa mhs1;
 }
