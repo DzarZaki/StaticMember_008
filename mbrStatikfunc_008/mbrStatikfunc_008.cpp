@@ -38,4 +38,9 @@ int main() {
 	mahasiswa::setNim(9);  // Mengakses nim melalui static member function "SetNim" 
 	mahasiswa mhs3("Andi Janu");
 	mahasiswa mhs4("Joko Wahono");
+
+	mhs1.printAll();
+	mhs2.printAll();
+	mhs3.printAll();
+	mhs4.printAll(); 
 }
