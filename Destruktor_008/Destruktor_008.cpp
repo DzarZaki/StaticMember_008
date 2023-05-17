@@ -25,3 +25,7 @@ void angka::cetakData() {
 	}
 	cout << endl;
 }
+
+int main() {
+
+}
