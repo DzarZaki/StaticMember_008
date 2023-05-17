@@ -9,4 +9,5 @@ string nama;
 public:
 mahasiswa();
 mahasiswa(int);
+mahasiswa(string);
 };
