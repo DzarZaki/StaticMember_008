@@ -2,17 +2,17 @@
 using namespace std;
 class buku
 {
-	string judul;
+	string Judul;
 
 public:
-	buku setjudul(string judul)
+	buku setJudul(string Judul)
 	{
-		this->judul = judul;
+		this->Judul = Judul;
 		return *this; //chain function
 	}
-	string getjudul()
+	string getJudul()
 	{
-		return this->judul;
+		return this->Judul;
 	}
 } bukunya;
 
@@ -20,4 +20,5 @@ int main()
 {
 	// bukunya.setjudul("Matematika");
 	// cout << bukunya.getJudul();
+	cout << bukunya.setJudul("Matematika").getJudul(); // chain function calls
 }
