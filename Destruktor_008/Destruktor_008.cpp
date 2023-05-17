@@ -18,3 +18,7 @@ angka::angka(int i) {  // Destructor
 	delete[]arr;
 	cout << "Alamat Array Sudah Dilepaskan" << endl;
 }
+
+void angka::cetakData() {
+
+}
