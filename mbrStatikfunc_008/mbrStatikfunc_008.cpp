@@ -43,4 +43,8 @@ int main() {
 	mhs2.printAll();
 	mhs3.printAll();
 	mhs4.printAll(); 
+
+	cout << "Akses dari luar object = " << mahasiswa::getNim() << endl; // Mengakses nim melalui Static member function "getNim"
+
+
 }
