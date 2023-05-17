@@ -14,4 +14,5 @@ public:
 // Definisi member Function
 angka::angka(int i) {  // Destructor
 	cout << endl;
+	cetakData();
 }
