@@ -19,5 +19,5 @@ public:
 int main()
 {
 	// bukunya.setjudul("Matematika");
-	
+	// cout << bukunya.getJudul();
 }
