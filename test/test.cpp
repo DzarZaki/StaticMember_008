@@ -22,5 +22,8 @@ void addNode() {
 
 	if (START == NULL || nim <= START->noMhs) {
 		if (START != NULL && nim == START->noMhs)
+		{
+			cout << "NIM sudah ada" << endl;
+		}
 	}
 }
