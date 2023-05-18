@@ -55,6 +55,6 @@ bool serachNode(int nim, Node* current, Node* previous) {
 	current = START;
 	while (current != NULL && nim > current->noMhs)
 	{
-
+		previous = current;
 	}
 }
