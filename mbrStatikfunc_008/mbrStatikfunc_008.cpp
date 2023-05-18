@@ -46,5 +46,5 @@ int main() {
 
 	cout << "Akses dari luar object = " << mahasiswa::getNim() << endl; // Mengakses nim melalui Static member function "getNim"
 
-
+	return 0;
 }
